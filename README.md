@@ -1,7 +1,7 @@
 
 # 🚀 MCP RAG Server for Claude Desktop
 
-A high-performance Retrieval-Augmented Generation (RAG) server that seamlessly integrates with Claude Desktop through the Model Context Protocol (MCP). This project enhances Claude's capabilities by providing access to your local document knowledge base through an advanced RAG pipeline.
+A Retrieval-Augmented Generation (RAG) server that seamlessly integrates with Claude Desktop through the Model Context Protocol (MCP). This project enhances Claude's capabilities by providing access to your local document knowledge base through an advanced RAG pipeline.
 
 ## ✨ Features
 
